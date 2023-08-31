@@ -1,0 +1,4 @@
+logging:
+  level:
+    '[com.upi.payment.controller]': DEBUG
+    root: DEBUG  #For complete application logging, not recommanded, go specifc package level logging
